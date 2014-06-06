@@ -1,3 +1,7 @@
+.leaflet-popup-content{
+    color:black;
+}
+
 body {
   margin: 0;
   padding: 0;
